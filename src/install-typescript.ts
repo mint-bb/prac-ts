@@ -1,3 +1,3 @@
-let message: string = 'Hello, ts-node-Dev!';
+let message: string = 'Hello, ts-config';
 
 console.log({ message });
